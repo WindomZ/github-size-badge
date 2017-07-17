@@ -19,6 +19,19 @@
         "bug",
         "design"
       ]
+    },
+    {
+      "login": "WindomZ",
+      "name": "Windom.Z",
+      "avatar_url": "https://avatars7.githubusercontent.com/u/14875359?v=4",
+      "profile": "https://windomz.github.io/",
+      "contributions": [
+        "code",
+        "plugin",
+        "doc",
+        "test",
+        "bug"
+      ]
     }
   ]
 }

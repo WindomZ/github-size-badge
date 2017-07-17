@@ -34,8 +34,8 @@ You can flow [Contribute Guide](https://github.com/axetroy/github-size-badge/blo
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| [<img src="https://avatars1.githubusercontent.com/u/9758711?v=3" width="100px;"/><br /><sub>Axetroy</sub>](http://axetroy.github.io)<br />[💻](https://github.com/gpmer/gpm.js/commits?author=axetroy) 🔌 [⚠️](https://github.com/gpmer/gpm.js/commits?author=axetroy) [🐛](https://github.com/gpmer/gpm.js/issues?q=author%3Aaxetroy) 🎨 |
-| :---: |
+| [<img src="https://avatars1.githubusercontent.com/u/9758711?v=3" width="100px;"/><br /><sub>Axetroy</sub>](http://axetroy.github.io)<br />[💻](https://github.com/gpmer/gpm.js/commits?author=axetroy "Code") [🔌](#plugin-axetroy "Plugin/utility libraries") [⚠️](https://github.com/gpmer/gpm.js/commits?author=axetroy "Tests") [🐛](https://github.com/gpmer/gpm.js/issues?q=author%3Aaxetroy "Bug reports") [🎨](#design-axetroy "Design") | [<img src="https://avatars7.githubusercontent.com/u/14875359?v=4" width="100px;"/><br /><sub>Windom.Z</sub>](https://windomz.github.io/)<br />[💻](https://github.com/gpmer/gpm.js/commits?author=WindomZ "Code") [🔌](#plugin-WindomZ "Plugin/utility libraries") [📖](https://github.com/gpmer/gpm.js/commits?author=WindomZ "Documentation") [⚠️](https://github.com/gpmer/gpm.js/commits?author=WindomZ "Tests") [🐛](https://github.com/gpmer/gpm.js/issues?q=author%3AWindomZ "Bug reports") |
+| :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## License
