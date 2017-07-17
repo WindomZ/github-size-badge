@@ -2,13 +2,13 @@
 
 [![Build Status](https://travis-ci.org/axetroy/github-size-badge.svg?branch=master)](https://travis-ci.org/axetroy/github-size-badge)
 [![Dependency](https://david-dm.org/axetroy/github-size-badge.svg)](https://david-dm.org/axetroy/github-size-badge)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-[![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-green.svg)](https://github.com/prettier/prettier)
-![Node](https://img.shields.io/badge/node-%3E=6.0-blue.svg?style=flat-square)
 [![npm version](https://badge.fury.io/js/github-size-badge.svg)](https://badge.fury.io/js/github-size-badge)
+![Node](https://img.shields.io/badge/node-%3E=6.0-blue.svg?style=flat-square)
+[![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-green.svg)](https://github.com/prettier/prettier)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Size](https://github-size-badge.herokuapp.com/axetroy/github-size-badge.svg)
 
-Provide service for show your repo size.
+> Provide badge service to displays the size of the github repository.
 
 ### Usage
 
